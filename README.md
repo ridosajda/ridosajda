@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ridho and I'm a student, from SMK Telkom PWT</h2>
+<h2 align="left">Hi 👋! My name is Ridho and I'm a student, from Telkom University</h2>
 
 ###
 
